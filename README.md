@@ -1,2 +1,3 @@
 # LCD_Menu
-Display menu with a rotary encoder
+A 20x4 LCD is controled with an arduino an a rotary encoder.
+a menu is selected by pushing the encoder.
